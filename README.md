@@ -1,1 +1,2 @@
-# sj-project
+# Sophia Szady and Jack Aleksa
+# 
